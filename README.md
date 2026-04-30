@@ -1,11 +1,11 @@
+```
 job-trends-pipeline/
 │
-├── README.md                          
+├── README.md
 ├── docs/
-│   ├── SRS.md                         
-│   ├── data-model.md                  
+│   ├── SRS.md
+│   ├── data-model.md
 │   └── diagrams/
-│       ├── architecture-overview.png
 │       ├── erd-job-trends.png
 │       ├── dfd-level1.png
 │       ├── activity-main-pipeline.png
@@ -14,10 +14,11 @@ job-trends-pipeline/
 │       ├── sequence-dbt-to-postgres.png
 │       └── sequence-dead-letter-backfill.png
 │
-├── src/                               
+├── src/
 │   ├── ingestion/
 │   ├── transformation/
 │   └── serving/
 │
 └── .github/
     └── ISSUE_TEMPLATE.md
+```
