@@ -1,9 +1,9 @@
 job-trends-pipeline/
 │
-├── README.md                          ← Main project overview (most important file)
+├── README.md                          
 ├── docs/
-│   ├── SRS.md                         ← Software Requirements Specification
-│   ├── data-model.md                  ← ERD explanation
+│   ├── SRS.md                         
+│   ├── data-model.md                  
 │   └── diagrams/
 │       ├── architecture-overview.png
 │       ├── erd-job-trends.png
@@ -14,7 +14,7 @@ job-trends-pipeline/
 │       ├── sequence-dbt-to-postgres.png
 │       └── sequence-dead-letter-backfill.png
 │
-├── src/                               ← Your actual pipeline code (when ready)
+├── src/                               
 │   ├── ingestion/
 │   ├── transformation/
 │   └── serving/
