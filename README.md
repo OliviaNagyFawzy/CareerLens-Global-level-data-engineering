@@ -6,6 +6,7 @@ job-trends-pipeline/
 │   ├── SRS.md
 │   ├── data-model.md
 │   └── diagrams/
+|       ├──usecase.png
 │       ├── erd-job-trends.png
 │       ├── dfd-level1.png
 │       ├── activity-main-pipeline.png
